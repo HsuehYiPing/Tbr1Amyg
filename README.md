@@ -19,13 +19,23 @@ pip -r requirements.txt
 Please download the sample data from [release page]() and put the data into following data structure.
 
 ```
-./data/
-  ├── aaa/
-      ├── bb/
-           ├── d/
-              ├── f.file
-       ├── cc/
-           ├── e/
+./CCFv3/
+  ├── structuretree/
+      ├── structure_list_paper.csv
+  ├── mask/
+      ├── mmm.csv
+./quantification/
+  ├── ggg
+      ├── hhh
+          ├── maskL
+              ├── jjj
+                  ├── kkk.tif
+./WT_ctrl_list.csv
+./Tbr1_ctrl_list.csv
+./WT_TBS_list.csv
+./Tbr1_TBS_list.csv
+./table_s1.csv
+./root_small.vtk
 ```
 
 

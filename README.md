@@ -22,6 +22,7 @@ Please download the sample data from [release page]() and put the data into foll
 ./CCFv3/
   ├── structuretree/
       ├── structure_list_paper.csv
+      ├── structure_list_paper_cfos.csv
   ├── mask/
       ├── mmm.csv
 ./quantification/

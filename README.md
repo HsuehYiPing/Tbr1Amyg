@@ -1,4 +1,4 @@
-# Tbr1 haploinsufficiency alters amygdalar connectivity and whole-brain synchronization in response to amygdalar activation
+# Tbr1 autism mouse model displays altered structural and functional amygdalar connectivity and abnormal whole-brain synchronization
 
 Tsan-Ting Hsu<sup>1</sup>, Chien-Yao Wang<sup>2</sup> and [Yi-Ping Hsueh](https://scholar.google.com.tw/citations?user=QLEGxyUAAAAJ&hl=en)<sup>1*</sup>
 

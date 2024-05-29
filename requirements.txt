@@ -1,4 +1,5 @@
 vedo
 ipympl
 k3d
+networkx
 nxviz

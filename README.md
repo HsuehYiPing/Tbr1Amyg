@@ -24,14 +24,13 @@ Please download the sample data from [release page]() and put the data into foll
   ├── structuretree/
       ├── structure_list_paper.csv
       ├── structure_list_paper_cfos.csv
-  ├── mask/
-      ├── mmm.csv
+  ├── mask+IDX/
+      ├── mask+section_number.csv
 ./quantification/
-  ├── ggg
-      ├── hhh
-          ├── maskL
-              ├── jjj
-                  ├── kkk.tif
+  ├── genotype
+      ├── st_pattern
+          ├── sample_folder
+              ├── quantification_data.csv
 ./WT_ctrl_list.csv
 ./Tbr1_ctrl_list.csv
 ./WT_TBS_list.csv

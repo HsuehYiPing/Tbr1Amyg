@@ -31,11 +31,19 @@ Please download the sample data from [release page]() and put the data into foll
       ├── st_pattern
           ├── sample_folder
               ├── quantification_data.csv
+          ├──mask_L
+             ├──brain_region
+                ├── sample_folder
+                    ├── mask*.png
+          ├──mask_R
+             ├──brain_region
+                ├── sample_folder
+                    ├── mask*.png
+          
 ./WT_ctrl_list.csv
 ./Tbr1_ctrl_list.csv
 ./WT_TBS_list.csv
 ./Tbr1_TBS_list.csv
-./table_s1.csv
 ./root_small.vtk
 ```
 

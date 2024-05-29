@@ -46,7 +46,7 @@ Please download the sample data from [release page]() and put the data into foll
 
 
 ## Acknowledgement
-> We thank the Imaging Core and Animal Facility of the Institute of Molecular Biology, Academia Sinica, for technical assistance, Dr. John O’Brien for English editing, and members of Y.-P.H.’s laboratory for technical assistance and discussion. This work was supported by grants from Academia Sinica (AS-TP-110-L10 and AS-IA-111-L01 to Y.-P.H.).
+We thank the Imaging Core and Animal Facility of the Institute of Molecular Biology, Academia Sinica, for technical assistance, Dr. John O’Brien for English editing, and members of Y.-P.H.’s laboratory for technical assistance and discussion. This work was supported by grants from Academia Sinica (AS-TP-110-L10 and AS-IA-111-L01 to Y.-P.H.).
 
 ## Contact
 

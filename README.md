@@ -30,7 +30,15 @@ Please download the sample data from [release page]() and put the data into foll
   ├── genotype
       ├── st_pattern
           ├── sample_folder
-              ├── quantification_data.csv
+              ├── reference_list.csv
+              ├── rre_area_L_summary.csv
+              ├── rre_area_R_summary.csv
+              ├── rre_cfos_L_num_summary.csv
+              ├── rre_cfos_L_summary.csv
+              ├── rre_cfos_R_num_summary.csv
+              ├── rre_cfos_R_summary.csv
+              ├── rre_oChIEF_L_summary_b.csv
+              ├── rre_oChIEF_L_summary_b.csv
           ├──mask_L
              ├──brain_region
                 ├── sample_folder
@@ -39,7 +47,15 @@ Please download the sample data from [release page]() and put the data into foll
              ├──brain_region
                 ├── sample_folder
                     ├── mask*.png
-          
+./correlation/
+  ├── WT_ctrl_cfos_center.csv
+  ├── Tbr1_ctrl_cfos_center.csv
+  ├── WT_TBS_cfos_center.csv
+  ├── Tbr1_TBS_cfos_center.csv
+./WT_small_oChIEF_b_average_folder/
+  ├── oChIEF_sb*.png
+./Tbr1_small_oChIEF_b_average_folder/
+  ├── oChIEF_sb*.png        
 ./WT_ctrl_list.csv
 ./Tbr1_ctrl_list.csv
 ./WT_TBS_list.csv

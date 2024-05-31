@@ -20,6 +20,11 @@ pip -r requirements.txt
 Please download the sample data from [release page]() and put the data into following data structure.
 
 ```
+./demo_brain/
+  ├── oChIEF_T_b/
+      ├── oChIEF_T_b*.png/
+  ├── position_Detailed.csv
+  ├── reference_list.csv
 ./CCFv3/
   ├── structuretree/
       ├── structure_list_paper.csv

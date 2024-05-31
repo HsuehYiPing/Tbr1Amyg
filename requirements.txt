@@ -1,5 +1,14 @@
-vedo
-ipympl
-k3d
+numpy
+pandas
+skimage
+shapely
+geopandas
+opencv-python
+matplotlib
+pingouin
+seaborn
+scipy
 networkx
 nxviz
+tqdm
+vedo

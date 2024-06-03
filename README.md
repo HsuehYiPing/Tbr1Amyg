@@ -70,7 +70,7 @@ Please download the sample data from [release page]() and put the data into foll
 
 
 ## Usage
-
+1. Demo of regional quantification using Allen CCFv3 regional masks
 
 
 ## Acknowledgement

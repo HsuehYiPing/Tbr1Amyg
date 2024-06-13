@@ -66,23 +66,28 @@ Please download the sample data from [release page]() and put the data into foll
 ./WT_TBS_list.csv
 ./Tbr1_TBS_list.csv
 ./root_small.vtk
+./supervised_behavior/
+  ├── RSI_10min_summary.csv
+  ├── homecage_10min_summary.csv
 ```
 
 
 ## Usage
-1. Demo of regional quantification using Allen CCFv3 regional masks  
+1. Demo of regional quantification using Allen CCFv3 regional masks (demo, related to Figure 1 Step 5)
    -->CCFv3_DMN_region_masks_for_quantification_demo.ipynb  
 2. ROI correction of Allen CCFv3 regional masks and requantification  
    -->ROI_correction_with_image_J_demo.ipynb  
    -->createROI_all.ijm  
    -->open_L_image_stack_ROI_correction.ijm / open_R_image_stack_ROI_correction.ijm  
    -->convertROI_into_mask.py  
-3. Slice-based quantification and related analysis  
+3. Slice-based quantification and related analysis (related to Figure 2C, 3A, 3C, 3E, 3G, 4A right panel, 4B, 4C right panel,   4D, S8B, S8D) 
    -->Slice_based_analysis_and_corrleation_analysis.ipynb  
-4. Inter-regional C-FOS correlations and network analysis  
+4. Inter-regional C-FOS correlations and network analysis (related to Figure 5A, 5B, S5A, S5B, 6A, 6B mean correlations, 7C, 7D, S6A, S6B, S7)
    -->inter-regional_C-FOS_correlation.ipynb  
-5. 3D mapping of averaged labeled axons, C-FOS distributions and their correlations  
-   -->3D_visualization-demo.ipynb  
+5. 3D mapping of averaged labeled axons, C-FOS distributions and their correlations (demo of 3D mapping)
+   -->3D_visualization-demo.ipynb
+6. supervised behavior analysis (related to Figure 8B, 8C, S9, S10)
+   -->supervised_behavior_analysis.ipynb
 
 ## Acknowledgement
 We thank the Imaging Core and Animal Facility of the Institute of Molecular Biology, Academia Sinica, for technical assistance, Dr. John O’Brien for English editing, and members of Y.-P.H.’s laboratory for technical assistance and discussion. This work was supported by grants from Academia Sinica (AS-TP-110-L10 and AS-IA-111-L01 to Y.-P.H.).

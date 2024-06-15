@@ -1,4 +1,4 @@
-# Deep brain stimulation at the basolateral amygdala alters whole-brain connectivity and synchronization and social behaviors of _Tbr1_ deficient mice
+# Deep brain stimulation of the Tbr1-deficient mouse model of autism spectrum disorder at the basolateral amygdala alters amygdalar connectivity, whole-brain synchronization and social behaviors
 
 
 Tsan-Ting Hsu<sup>1</sup>, Tzyy-Nan Huang<sup>1</sup>, Chien-Yao Wang<sup>2</sup> and [Yi-Ping Hsueh](https://scholar.google.com.tw/citations?user=QLEGxyUAAAAJ&hl=en)<sup>1*</sup>
@@ -17,7 +17,7 @@ pip -r requirements.txt
 
 ## Data preparation
 
-Please download the sample data from [release page]() and put the data into following data structure.
+Please download the sample data from [release page]() and put the data into following data structure (Data will be available after paper publication).
 
 ```
 ./demo_brain/

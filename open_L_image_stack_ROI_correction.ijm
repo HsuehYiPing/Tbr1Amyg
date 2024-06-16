@@ -8,7 +8,7 @@ structure3 = "PL"
 brain = "Sample_folder"
 
 //load reference image stack size: 1140 x 800 (not provided )
-open("./"+brain+"/cfos_Tsmall.tif");
+open("./"+brain+"/reference_img.tif");
 
 roiManager("Open", "./quantification/"+ genotype+"/"+st_pattern+"/mask_L/"+structure1+"/"+brain+"/RoiSet.zip");
 roiManager("Draw")

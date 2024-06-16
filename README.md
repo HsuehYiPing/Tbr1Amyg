@@ -1,4 +1,4 @@
-# Deep brain stimulation of the Tbr1-deficient mouse model of autism spectrum disorder at the basolateral amygdala alters amygdalar connectivity, whole-brain synchronization and social behaviors
+# Deep brain stimulation of the _Tbr1_-deficient mouse model of autism spectrum disorder at the basolateral amygdala alters amygdalar connectivity, whole-brain synchronization and social behaviors
 
 
 Tsan-Ting Hsu<sup>1</sup>, Tzyy-Nan Huang<sup>1</sup>, Chien-Yao Wang<sup>2</sup> and [Yi-Ping Hsueh](https://scholar.google.com.tw/citations?user=QLEGxyUAAAAJ&hl=en)<sup>1*</sup>
@@ -80,13 +80,13 @@ Please download the sample data from [release page]() and put the data into foll
    -->createROI_all.ijm  
    -->open_L_image_stack_ROI_correction.ijm / open_R_image_stack_ROI_correction.ijm  
    -->convertROI_into_mask.py  
-3. Slice-based quantification and related analysis (related to Fig 2C, 3A, 3C, 3E, 3G, 4A right panel, 4B, 4C right panel, 4D, S8B, S8D)  
+3. Slice-based quantification and related analysis (related to Figs 2C, 3A, 3C, 3E, 3G, 4A right panel, 4B, 4C right panel, 4D, S8B, S8D)  
    -->Slice_based_analysis_and_corrleation_analysis.ipynb  
-4. Inter-regional C-FOS correlations and network analysis (related to Fig 5A, 5B, S5A, S5B, 6A, 6B mean correlations, 7C, 7D, S6A, S6B, S7)  
+4. Inter-regional C-FOS correlations and network analysis (related to Figs 5A, 5B, S5A, S5B, 6A, 6B mean correlations, 7C, 7D, S6A, S6B, S7)  
    -->inter-regional_C-FOS_correlation.ipynb  
 5. 3D mapping of averaged labeled axons, C-FOS distributions and their correlations (demo of 3D mapping)  
    -->3D_visualization-demo.ipynb
-6. supervised behavior analysis (related to Fig 8B, 8C, S9, S10)  
+6. supervised behavior analysis (related to Figs 8B, 8C, S9, S10)  
    -->supervised_behavior_analysis.ipynb
 
 ## Acknowledgement

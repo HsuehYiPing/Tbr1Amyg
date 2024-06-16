@@ -6,8 +6,8 @@ structure2 = "ACAv"
 structure3 = "PL"
 brain = "Sample_folder"
 
-//load reference image stack size: 1140 x 800 (not provided )
-open("./"+brain+"/cfos_Tsmall.tif");
+//load reference image stack size: 1140 x 800 pixels (not provided )
+open("./"+brain+"/reference_img.tif");
 selectWindow("cfos_Tsmall.tif");
 makeRectangle(570, 0, 570, 800);
 run("ROI Manager...");

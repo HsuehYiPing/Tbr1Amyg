@@ -17,7 +17,7 @@ pip -r requirements.txt
 
 ## Data preparation
 
-Please download the sample data from [release page]() and put the data into following data structure (Data will be available after paper publication).
+Please download the data from [release page]() and put the data into following data structure.
 
 ```
 ./demo_brain/

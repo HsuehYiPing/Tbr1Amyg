@@ -90,7 +90,7 @@ Please download the data from [release page]() and put the data into following d
    -->convertROI_into_mask.py  
 5. Slice-based quantification and related analysis (related to Figs 2C, 3A, 3C, 3E, 3G, 4A right panel, 4B, 4C right panel, 4D, S8B, S8D of version June 2024)  
    -->Slice_based_analysis_and_corrleation_analysis.ipynb  
-6. Inter-regional C-FOS correlations and network analysis (related to Figs 5A, 5B, S5A, S5B, 6A, 6B mean correlations, 7C, 7D, S6A, S6B, S7 of version June 2024)
+6. Inter-regional C-FOS correlations and network analysis (related to Figs 5A, 5B, S5A, S5B, 6A, 6B mean correlations, 7C, 7D, S6A, S6B, S7 of version June 2024)  
    -->inter-regional_C-FOS_correlation.ipynb  
 7. 3D mapping of averaged labeled axons, C-FOS distributions and their correlations (demo of 3D mapping)  
    -->3D_visualization-demo.ipynb

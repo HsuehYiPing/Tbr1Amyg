@@ -20,6 +20,10 @@ pip -r requirements.txt
 Please download the data from [release page]() and put the data into following data structure.
 
 ```
+./image_registration_demo/
+  ├──cfos0044.tif
+  ├──oChIEF0044.tif
+  ├──ref0607.tif
 ./demo_brain/
   ├── oChIEF_T_b/
       ├── oChIEF_T_b*.png/
@@ -73,20 +77,22 @@ Please download the data from [release page]() and put the data into following d
 
 
 ## Usage
-1. Demo of regional quantification using Allen CCFv3 regional masks (demo, related to Fig 1 Step 5 of version June 2024)  
+1. Demo of image registration by the medical image registration library SimpleElastix (demo, related to Fig1 step3 of version June 2024)
+   -->Image_registration_demo.ipynb
+2. Demo of regional quantification using Allen CCFv3 regional masks (demo, related to Fig 1 Step 5 of version June 2024)  
    -->CCFv3_DMN_region_masks_for_quantification_demo.ipynb  
-2. ROI correction of Allen CCFv3 regional masks and requantification  
+3. ROI correction of Allen CCFv3 regional masks and requantification  
    -->ROI_correction_with_image_J_demo.ipynb  
    -->createROI_all.ijm  
    -->open_L_image_stack_ROI_correction.ijm / open_R_image_stack_ROI_correction.ijm  
    -->convertROI_into_mask.py  
-3. Slice-based quantification and related analysis (related to Figs 2C, 3A, 3C, 3E, 3G, 4A right panel, 4B, 4C right panel, 4D, S8B, S8D of version June 2024)  
+4. Slice-based quantification and related analysis (related to Figs 2C, 3A, 3C, 3E, 3G, 4A right panel, 4B, 4C right panel, 4D, S8B, S8D of version June 2024)  
    -->Slice_based_analysis_and_corrleation_analysis.ipynb  
-4. Inter-regional C-FOS correlations and network analysis (related to Figs 5A, 5B, S5A, S5B, 6A, 6B mean correlations, 7C, 7D, S6A, S6B, S7of version June 2024)  
+5. Inter-regional C-FOS correlations and network analysis (related to Figs 5A, 5B, S5A, S5B, 6A, 6B mean correlations, 7C, 7D, S6A, S6B, S7of version June 2024)  
    -->inter-regional_C-FOS_correlation.ipynb  
-5. 3D mapping of averaged labeled axons, C-FOS distributions and their correlations (demo of 3D mapping)  
+6. 3D mapping of averaged labeled axons, C-FOS distributions and their correlations (demo of 3D mapping)  
    -->3D_visualization-demo.ipynb
-6. supervised behavior analysis (related to Figs 8B, 8C, S9, S10 of version June 2024)  
+7. supervised behavior analysis (related to Figs 8B, 8C, S9, S10 of version June 2024)  
    -->supervised_behavior_analysis.ipynb
 
 ## Acknowledgement

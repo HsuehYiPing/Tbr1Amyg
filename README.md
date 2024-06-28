@@ -77,7 +77,7 @@ Please download the data from [release page]() and put the data into following d
 
 
 ## Usage
-1. KNN classification of virus injection sites (related to S2 Fig)
+1. KNN classification of virus injection sites (related to S2 Fig)  
    -->KNN_classification_inj_sites.ipynb
    
 2. Demo of image registration by the medical image registration library SimpleElastix (demo, related to Fig1 Step3 of version June 2024)  

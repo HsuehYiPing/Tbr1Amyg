@@ -77,7 +77,7 @@ Please download the data from [release page]() and put the data into following d
 
 
 ## Usage
-1. Demo of image registration by the medical image registration library SimpleElastix (demo, related to Fig1 step3 of version June 2024)
+1. Demo of image registration by the medical image registration library SimpleElastix (demo, related to Fig1 Step3 of version June 2024)
    -->Image_registration_demo.ipynb
 2. Demo of regional quantification using Allen CCFv3 regional masks (demo, related to Fig 1 Step 5 of version June 2024)  
    -->CCFv3_DMN_region_masks_for_quantification_demo.ipynb  
